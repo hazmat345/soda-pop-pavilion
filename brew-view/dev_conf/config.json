@@ -12,7 +12,7 @@
     "amq_port": 5672,
     "amq_user": "guest",
     "amq_virtual_host": "/",
-    "application_name": "Beer Garden",
+    "application_name": "Soda Pop Pavilion",
     "backend_host": "localhost",
     "backend_port": 9090,
     "backend_socket_timeout": 3000,
